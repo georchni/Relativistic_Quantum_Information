@@ -1,4 +1,4 @@
-# Relativistic-Quantum-Information
+# Relativistic_Quantum_Information
 
 
 Abstract: The scope of this technical report is the review of multiple scientific papers regarding
